@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "737791250651",
+    "firebase_url": "https://kefi-99672.firebaseio.com",
+    "project_id": "kefi-99672",
+    "storage_bucket": "kefi-99672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737791250651:android:5e7c23e88bde9f56",
+        "android_client_info": {
+          "package_name": "com.nelsonkam.kefi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737791250651-r3hkvlla8pbksaldm8k1ofa4khljkr80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nelsonkam.kefi",
+            "certificate_hash": "a35f580575ddfb9c8b45d4b9bd1864158c2dd871"
+          }
+        },
+        {
+          "client_id": "737791250651-kmap77093sisdp3uvu1brpigab50ev9e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "737791250651-kmap77093sisdp3uvu1brpigab50ev9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNE83ZVBbVX_4k2HiSgDF18_vWN_9sHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737791250651-kmap77093sisdp3uvu1brpigab50ev9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
